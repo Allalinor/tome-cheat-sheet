@@ -1,3 +1,3 @@
-## Dark Souls Cheat Sheet
+## Tales of Maj'Eyal
 
-To view the cheat sheet [click here](http://smcnabb.github.io/dark-souls-cheat-sheet/).
+To view the cheat sheet [click here](https://allalinor.github.io/tome-cheat-sheet/).
